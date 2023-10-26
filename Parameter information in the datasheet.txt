@@ -4,84 +4,84 @@
 
 *LLE-GC-MS 
 
-River_1: pH (8.85)_concentration(ph/ml) = 10
+River_1: pH (8.85)_concentration(pg/ml) = 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_2: pH (10.43)_concentration(ph/ml) = 10
+River_2: pH (10.43)_concentration(pg/ml) = 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_3: pH (8.33): concentration(ph/ml): 10
+River_3: pH (8.33): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_4: pH (8.44): concentration(ph/ml): 10
+River_4: pH (8.44): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_5: pH (10.09): concentration(ph/ml): 10
+River_5: pH (10.09): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_6: pH (7.56): concentration(ph/ml): 10
+River_6: pH (7.56): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_7: pH (8.64): concentration(ph/ml): 10
+River_7: pH (8.64): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_8: pH (7.54): concentration(ph/ml): 10
+River_8: pH (7.54): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_9: pH (7.85): concentration(ph/ml): 10
+River_9: pH (7.85): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_10: pH (7.96): concentration(ph/ml): 10
+River_10: pH (7.96): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_11: pH (8.21): concentration(ph/ml): 10
+River_11: pH (8.21): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_12: pH (8.64): concentration(ph/ml): 10
+River_12: pH (8.64): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
@@ -92,77 +92,77 @@ River_12: pH (8.64): concentration(ph/ml): 10
 
 *LLE-GC-MS 
 
-River_1: pH (8.85)_concentration(ph/ml) = 10
+River_1: pH (8.85)_concentration(pg/ml) = 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_2_1: pH (10.43)_concentration(ph/ml) = 10
+River_2_1: pH (10.43)_concentration(pg/ml) = 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_2_2: pH (10.43)_concentration(ph/ml) = 10
+River_2_2: pH (10.43)_concentration(pg/ml) = 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_5: pH (10.09): concentration(ph/ml): 10
+River_5: pH (10.09): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_6_1: pH (7.56): concentration(ph/ml): 10
+River_6_1: pH (7.56): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_6_2: pH (7.56): concentration(ph/ml): 10
+River_6_2: pH (7.56): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_7: pH (8.64): concentration(ph/ml): 10
+River_7: pH (8.64): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_8: pH (7.96): concentration(ph/ml): 10
+River_8: pH (7.96): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_10: pH (7.54): concentration(ph/ml): 10
+River_10: pH (7.54): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_11: pH (8.21): concentration(ph/ml): 10
+River_11: pH (8.21): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
 -> ΔIp = 10, 
 -> ΔIp (%) = (Ip0 – Ip)/Ip0 = 10
 
-River_12: pH (8.64): concentration(ph/ml): 10
+River_12: pH (8.64): concentration(pg/ml): 10
 
 -> MCH(Ip&Ep&Ap)  = 30
 -> Target(Ip&Ep&Ap) = 30
